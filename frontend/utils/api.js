@@ -1,1 +1,2 @@
-export const API = 'YOUR_BACKEND_URL';
+export const API = "https://gate-notes-api.onrender.com/api";
+
